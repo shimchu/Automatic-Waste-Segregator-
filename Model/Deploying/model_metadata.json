@@ -1,0 +1,18 @@
+{
+    "description": "Waste classification model for real-time bin system",
+    "author": "Aadarsh R (Sahaay Club)",
+    "training_details": {
+      "epochs": 50,
+      "optimizer": "adam"
+    },
+    "input_spec": {
+      "name": "input_image",
+      "shape": [1, 224, 224, 3]
+    },
+    "output_spec": {
+      "name": "output",
+      "type": "one-hot encoded list",
+      "class_labels": ["cardboard", "glass", "metal", "plastic", "trash"]  
+    }
+  }
+  
