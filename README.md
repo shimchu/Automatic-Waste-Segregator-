@@ -15,7 +15,7 @@ The dataset can be seen at https://github.com/RishiNandha/AWS_Dataset - Collecti
 
 ## Repo Contents:
 1. AWS Report - the detailed report of the automatic waste segregator containing models tried, inference, optimizations and metrics
-2. Learning Report - CNNs and based architectures, a documentation of my understanding of these architectures
+2. Learning Report - CNNs and based higher level architectures, a documentation of my understanding of these architectures
 3. Model directory - has the code for the model and it's deployment.
 4. Results
 5. Dataset used for training, validation and testing
