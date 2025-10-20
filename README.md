@@ -29,7 +29,7 @@ The initial challenge was the dataset. At the time the Kaggle dataset we chose t
     \])
 **The final dataset:**
 
-DATASET:[Sahaay Club - AWS Report.md](https://github.com/user-attachments/files/22997312/Sahaay.Club.-.AWS.Report.md)
+DATASET:[Dataset](https://github.com/RishiNandha/AWS_Dataset)
 
 The models read upon and implemented \- ResNet \- 18, 34, 50, 152, InceptionNet, MobileNetV3.  
 The second challenge was that there were no keras pretrained models for ResNet 34, hence we coded it from scratch based on the Research paper. 
